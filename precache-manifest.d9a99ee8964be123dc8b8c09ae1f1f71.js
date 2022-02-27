@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fa6acd7104d2e52cc41b584dfee9773",
+    "revision": "dd0adbf762c704fab7e80aa6ddd5d5b3",
     "url": "/index.html"
   },
   {
-    "revision": "cab46968efd760185631",
+    "revision": "a1fc956a8a68943761c7",
     "url": "/static/css/main.10731315.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.86ed53fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cab46968efd760185631",
-    "url": "/static/js/main.74afa5d1.chunk.js"
+    "revision": "a1fc956a8a68943761c7",
+    "url": "/static/js/main.bac88a1e.chunk.js"
   },
   {
     "revision": "5da38eedb3bf12e89126",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dcc.31391222.png"
   },
   {
-    "revision": "9bf1536914d2dbba8a849adef03382ce",
-    "url": "/static/media/lanka.9bf15369.jpg"
+    "revision": "fb7f2fc39586ee1804549539028f6c59",
+    "url": "/static/media/lanka.fb7f2fc3.png"
   },
   {
     "revision": "16a41b2587aaf3574dded537ce074111",
