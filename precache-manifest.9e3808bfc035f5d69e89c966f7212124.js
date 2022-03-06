@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d7da68337c81d3977c4a66ca1cf9920",
+    "revision": "d4740421b00367ca3350d0f3ea7389fd",
     "url": "/index.html"
   },
   {
-    "revision": "fecc8fcd79b3aaa291a0",
+    "revision": "7aabee8249d20e5c7438",
     "url": "/static/css/main.10731315.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c4f17003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fecc8fcd79b3aaa291a0",
-    "url": "/static/js/main.b41c2cc5.chunk.js"
+    "revision": "7aabee8249d20e5c7438",
+    "url": "/static/js/main.3c8a99af.chunk.js"
   },
   {
     "revision": "5da38eedb3bf12e89126",
     "url": "/static/js/runtime-main.408064cc.js"
   },
   {
-    "revision": "b3f76588b25a93f8994f460abd8a7a21",
-    "url": "/static/media/chathumini.b3f76588.jpeg"
+    "revision": "f6d231543de0d4b2dea2ead70dae3162",
+    "url": "/static/media/chathumini.f6d23154.png"
   },
   {
     "revision": "99eb459e1d47fb7f34ee6bc8bbf0f51a",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/lanka.fb7f2fc3.png"
   },
   {
-    "revision": "16a41b2587aaf3574dded537ce074111",
-    "url": "/static/media/leo.16a41b25.jpeg"
+    "revision": "85ed509d724674431c4188a6d24ef983",
+    "url": "/static/media/leo.85ed509d.png"
   },
   {
-    "revision": "9198caf663d0a796314d92438558970d",
-    "url": "/static/media/prefects.9198caf6.jpg"
+    "revision": "08e146230ebf34b9a9a684932c05ab8b",
+    "url": "/static/media/prefects.08e14623.png"
   },
   {
     "revision": "1dbdd1dafe15f61d304018e49ad49c7d",
@@ -60,7 +60,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/usjp.483491b4.png"
   },
   {
-    "revision": "b430a3024dafd185815f1ce0ae399683",
-    "url": "/static/media/vikings.b430a302.jpg"
+    "revision": "cfabd67fda5bcb99f09f0c195631a1dd",
+    "url": "/static/media/vikings.cfabd67f.png"
+  },
+  {
+    "revision": "dcaf5143f44b75a5fefde86765cf3798",
+    "url": "/static/media/voice.dcaf5143.png"
   }
 ]);
